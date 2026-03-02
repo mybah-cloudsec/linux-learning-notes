@@ -10,6 +10,7 @@
 - [Day 1](week-01/day-01.md) - Linux file system structure
 - [Day 2](week-01/day-02.md) - Process management and systemd
 - [Day 3](week-01/day-03.md) - User management and file permissions
+- [Day 4](week-01/day-04.md) - File System and Special permissions
 -
 
 
