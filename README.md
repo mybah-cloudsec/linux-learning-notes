@@ -12,6 +12,7 @@
 - [Day 3](week-01/day-03.md) - User management and file permissions
 - [Day 4](week-01/day-04.md) - File System and Special permissions
 - [Day 5](week-01/day-05.md) - Memory management
+- [Day 6](week-01/day-06.md) -Linux Network Configuration
 -
 
 
