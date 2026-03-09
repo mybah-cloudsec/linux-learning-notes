@@ -14,8 +14,9 @@
 - [Day 5](week-01/day-05.md) - Memory management
 - [Day 6](week-01/day-06.md) -Linux Network Configuration
 - [Day 7](week-01/day-07.md) -SSH configuration and security remote access
--
+- [Week 1 Lab](week-01/lab.md) -Practical SSH lab with Docker
 
+### Week 2
 
 ## What I am learning
 - Linux fundamentals
