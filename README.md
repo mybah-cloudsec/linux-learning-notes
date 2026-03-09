@@ -13,6 +13,7 @@
 - [Day 4](week-01/day-04.md) - File System and Special permissions
 - [Day 5](week-01/day-05.md) - Memory management
 - [Day 6](week-01/day-06.md) -Linux Network Configuration
+- [Day 7](week-01/day-07.md) -SSH configuration and security remote access
 -
 
 
