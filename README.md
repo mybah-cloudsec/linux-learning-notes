@@ -17,6 +17,7 @@
 - [Week 1 Lab](week-01/lab.md) -Practical SSH lab with Docker
 
 ### Week 2
+- [Day 1](week-02/day-01.md) - Firewalls and Network filtering
 
 ## What I am learning
 - Linux fundamentals
