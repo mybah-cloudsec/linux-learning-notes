@@ -186,4 +186,4 @@ set -e and set -u should be in every serious script.
 The difference between [ ] and [[ ]] — [[ ]] is the modern
 bash version, more powerful and handles more cases safely.
 
-*Tomorrow :* Bash scripting practice — writing real script
+*Tomorrow :* Bash scripting practice — writing real scripts
