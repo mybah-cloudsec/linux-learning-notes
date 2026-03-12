@@ -18,6 +18,8 @@
 
 ### Week 2
 - [Day 1](week-02/day-01.md) - Firewalls and Network filtering
+- [Day 1](week-02/day-02.md) - Bash scripting fundamentals
+- 
 
 ## What I am learning
 - Linux fundamentals
