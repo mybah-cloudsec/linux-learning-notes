@@ -27,5 +27,6 @@
 - Python for security
 - AWS Cloud
 - Cybersecurity (Security+, CCSP, CISSP)
+- Just added
 
 
